@@ -20,6 +20,10 @@ Le volet "usages urbains du CIM" a donné lieu à plusieurs actions, au sein de 
 
 ![Consortium](assets/E3S_logos.jpg)
 
+## Financeurs
+Le programme E3S a été financé par l'Université Gustave Eiffel et Eiffage 
+![Financeurs_logos](assets/financeurs_bandeau.png)
+
 <!--- 
 ## Livrables du projet
 Pour le volet intensité urbaine : 
