@@ -18,7 +18,7 @@ Le volet "usages urbains du CIM" a donné lieu à plusieurs actions, au sein de 
 -Exploration des données du CIM pour leur utilisation pour l'ACV - stages de Charlotte Lauverjon et Marine Paty, enacdrés par Florence Jacquinod et Charlotte Roux
 -Réalisation d'une ACV du quartier à partir du CIM et rédaction de recommentadations pour des CIM permettant la réalisation d'ACV - travail d'Alexandre Mielniczek, encadré par Florence Jacquinod et Charlotte Roux
 
-![Consortium](assets/FLOOD_AR_Consortium_universitaire.jpg)
+![Consortium](assets/E3S_logos.jpg)
 
 <!--- 
 ## Livrables du projet
