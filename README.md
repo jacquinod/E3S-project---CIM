@@ -52,6 +52,4 @@ Le [retour d'expérience sur le potentiel de ces outils et leurs limites](assets
 
  --->
 
-## Financeurs
-Le programme E3S a été financé par l'Université Gustave Eiffel et Eiffage 
-![Financeurs_logos](assets/financeurs_bandeau.png)
+
